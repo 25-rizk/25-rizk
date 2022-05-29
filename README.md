@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @25-rizk
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Cybersecurity, 3d modeling, Artificial Intelligence.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on space industry
 - 📫 How to reach me ...
 
 <!---
